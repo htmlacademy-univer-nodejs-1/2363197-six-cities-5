@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Univer Test](https://up.htmlacademy.ru/univer-nodejs-api/5/user/2363197).
-* Наставник: `Неизвестно`.
+* Наставник: `Test student`.
 
 ---
 
